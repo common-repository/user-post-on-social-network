@@ -1,0 +1,26 @@
+input.error {
+	border: 1px solid red !important;
+}
+#frmupsn p {
+  margin: 0.785714rem 0;
+}
+#frmupsn label {
+  display: block;
+  line-height: 1.71429;
+}
+#frmupsn input[type="text"], #frmupsn textarea {
+  box-sizing: border-box;
+  font-size: 0.857143rem;
+  line-height: 1.71429;
+  padding: 0.714286rem;
+  width: 100%;
+}
+#frmupsn button, #frmupsn input, #frmupsn textarea {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  font-family: inherit;
+  padding: 0.428571rem;
+}
+#frmupsn .upsn-required {
+  color: red;
+}
